@@ -29,6 +29,7 @@ footer, header, hgroup, menu, nav, section {
 }
 body {
 	line-height: 1;
+		background-color: #f9e8a6;
 }
 ol, ul {
 	list-style: none;
@@ -50,7 +51,7 @@ table {
 body {
   font-size: 1em;
   line-height: 1.5; 
-  background: #000000 url(../images/body-bg.png) 0 0 repeat;
+/*  background: #000000 url(../images/body-bg.png) 0 0 repeat;*/
   font-family: 'Helvetica Neue', Helvetica, Arial, serif;
   text-shadow: 0 1px 0 rgba(255, 255, 255, 0.8);
   color: #000000;
@@ -85,8 +86,9 @@ header h2 {
 }
 
 #container {
-  background: transparent url(../images/highlight-bg.jpg) 50% 0 no-repeat;
+  /*background: transparent url(../images/highlight-bg.jpg) 50% 0 no-repeat; this is from the original*/
   min-height: 595px;
+  background-color: #efeeee;
 }
 
 .inner {
