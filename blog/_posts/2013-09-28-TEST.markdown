@@ -2,7 +2,7 @@
 layout: post
 title: B test to end all tests
 ---
-
+content:
 ###This is something.
 
 this is the body of the post.
