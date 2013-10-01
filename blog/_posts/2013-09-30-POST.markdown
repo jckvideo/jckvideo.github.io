@@ -1,0 +1,9 @@
+---
+layout: default
+title: This is a Post
+---
+
+##heading
+####subheading
+
+this it the main body of the post.
